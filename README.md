@@ -27,9 +27,7 @@ also trying to write code that future me won't hate.
 <b>stack:</b> React · Node.js · Express · MongoDB · SQL · C++ · JavaScript · TypeScript
 </p>
 
-<p>
-<b>currently:</b> building · learning · debugging · repeating
-</p>
+<p><b>currently:</b> writing code · breaking code · fixing code</p>
 
 ---
 
