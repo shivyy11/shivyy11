@@ -1,30 +1,39 @@
-<h3 align="left">hey, i'm shivani</h3>
-
----
+<h3 align="left">HEY, I'M SHIVANI </h3>
 
 <p>
-I build things across the stack  not picking sides, just picking what works
-</p>
-
-
-<p>
-most days you'll find me somewhere between react and node<br>
-occasionally switching to fastapi, wiring things up with postgres<br>
-or making real-time stuff behave with websockets
-</p>
-
-
-<p>
-I like clean logic simple systems and code that doesn’t fight back
-</p>
-
-<p>
-still learning, still breaking things, still fixing them
+i build things, break things, and then figure out why they broke.
 </p>
 
 ---
 
 <p>
-if it works, it works.<br>
-if it doesn’t, give me a minute.
+somewhere between frontend and backend — mostly building with React, Node.js, and whatever else gets the job done.
 </p>
+
+<p>
+i like making things that actually work:<br>
+real-time apps, full-stack systems, clean interfaces,<br>
+and occasionally something that makes me question my life choices.
+</p>
+
+<p>
+currently exploring full-stack development, AI, and DSA.<br>
+also trying to write code that future me won't hate.
+</p>
+
+---
+
+<p>
+<b>stack:</b> React · Node.js · Express · MongoDB · SQL · C++ · JavaScript · TypeScript
+</p>
+
+<p>
+<b>currently:</b> building · learning · debugging · repeating
+</p>
+
+---
+
+<p>
+whatever happens, happens.
+</p>
+
