@@ -1,7 +1,7 @@
 <h3 align="left">HEY, I'M SHIVANI </h3>
 
 <p>
-i build things, break things, and then figure out why they broke.
+It's not about if I can. I'm doing it because I want to :)
 </p>
 
 ---
