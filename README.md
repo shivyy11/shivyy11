@@ -1,9 +1,5 @@
 <h3 align="left">HEY, I'M SHIVANI </h3>
 
-<p>
-It's not about if I can. I'm doing it because I want to :)
-</p>
-
 ---
 
 <p>
@@ -32,6 +28,6 @@ also trying to write code that future me won't hate.
 ---
 
 <p>
-whatever happens, happens.
+It's not about if I can. I'm doing it because I want to :)
 </p>
 
